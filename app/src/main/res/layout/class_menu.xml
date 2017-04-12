@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/back_class_button"
+        android:title="Back"
+        android:icon="@android:drawable/ic_menu_revert"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/edit_class_button"
+        android:title="Edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/add_class_button"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add"
+        app:showAsAction="always" />
+</menu>
