@@ -1,4 +1,4 @@
-package edu.umd.cs.gradeculator;
+package edu.umd.cs.gpa;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
